@@ -1,5 +1,3 @@
-# <p align="center">LuarSearch
-
 <p align="center">
   <img src="https://github.com/LuarSearch/LuarSearch/blob/main/asserts/luar.jpg">
 </p>
