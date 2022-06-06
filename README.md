@@ -2,7 +2,7 @@
   <img src="https://github.com/LuarSearch/LuarSearch/blob/main/asserts/luar.jpg">
 </p>
 
-<p align="center">O Bot de consultorias mais barato do mercado. <a href="https://t.me/luarsearchbot">Confira aqui!</a>
+<p align="center">O Bot de consultoria mais barato do mercado. <a href="https://t.me/luarsearchbot">Confira aqui!</a>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
