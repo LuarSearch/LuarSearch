@@ -1,7 +1,7 @@
 # <p align="center">LuarSearch
 
 <p align="center">
-  <img src="https://github.com/LuarSearch/LuarSearch/blob/main/IMG_20220603_230913_187.jpg">
+  <img src="https://github.com/LuarSearch/LuarSearch/blob/main/asserts/luar.jpg">
 </p>
 
 <p align="center">O Bot de consultorias mais barato do mercado. <a href="https://t.me/luarsearchbot">Confira aqui!</a>
