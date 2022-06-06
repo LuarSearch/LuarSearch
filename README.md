@@ -10,3 +10,9 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
+<p align="center">
+  <a href="https://t.me/luarsearchxd">Canal Oficial</a> •
+  <a href="https://github.com/LuarSearch/LuarSearch/consultas/main.md">Consultas</a> •
+  <a href="https://github.com/LuarSearch/LuarSearch/planos.md">Planos</a> •
+  <a href="https://github.com/Kiny-Kiny">Criador</a>
+</p>
