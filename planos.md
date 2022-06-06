@@ -7,3 +7,5 @@ Cada consulta custa R$0,25. O valor mínimo que pode ser adicionado é de R$20.
 ```
 Cada consulta custa R$0,50. O valor mínimo que pode ser adicionado é de R$25.
 ```
+
+# <p align="center">Revendedores
