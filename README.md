@@ -13,6 +13,6 @@
 <p align="center">
   <a href="https://t.me/luarsearchxd">Canal Oficial</a> •
   <a href="https://github.com/LuarSearch/LuarSearch/consultas/main.md">Consultas</a> •
-  <a href="https://github.com/LuarSearch/LuarSearch/planos.md">Planos</a> •
+  <a href="https://github.com/LuarSearch/LuarSearch/blob/main/planos.md">Planos</a> •
   <a href="https://github.com/Kiny-Kiny">Criador</a>
 </p>
